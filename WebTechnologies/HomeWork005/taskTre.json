@@ -1,0 +1,60 @@
+{
+    "Employee": [
+      {
+        "ID": 1,
+        "firstName": "Michael",
+        "lastName": "S.",
+        "age": 30,
+        "placeOfWork": "front"
+      },
+      {
+        "ID": 2,
+        "firstName": "Ivan",
+        "lastName": "S.",
+        "age": 35,
+        "placeOfWork": "back"
+      },
+      {
+        "ID": 3,
+        "firstName": "Alexander",
+        "lastName": "N.",
+        "age": 39,
+        "placeOfWork": "back"
+      },
+      {
+        "ID": 4,
+        "firstName": "Olga",
+        "lastName": "B.",
+        "age": 38,
+        "placeOfWork": "front"
+      },
+      {
+        "ID": 5,
+        "firstName": "Olga",
+        "lastName": "V.",
+        "age": 45,
+        "placeOfWork": "front"
+      },
+      {
+        "ID": 6,
+        "firstName": "Valentina",
+        "lastName": "I.",
+        "age": 56,
+        "placeOfWork": "front"
+      },
+      {
+        "ID": 7,
+        "firstName": "Vitaly",
+        "lastName": "M.",
+        "age": 45,
+        "placeOfWork": "front"
+      },
+      {
+        "ID": 8,
+        "firstName": "Svetlana",
+        "lastName": "S.",
+        "age": 51,
+        "placeOfWork": "owner"
+      }
+    ]
+  }
